@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1575783117 source:c:\users\saron\onedrive\desktop\personal\school materials\c++ programming\practice\mathtutor4\mathtutor.cpp
+
+1575909534 source:c:\users\saron\onedrive\desktop\personal\school materials\c++ programming\c++ real\mathtutor4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<vector>
+	"mathTutor.h"
+
+1575860245 c:\users\saron\onedrive\desktop\personal\school materials\c++ programming\c++ real\mathtutor4\mathtutor.h
+
+1575923708 source:c:\users\saron\onedrive\desktop\personal\school materials\c++ programming\c++ real\mathtutor4\mathtutor.cpp
+	<cstdlib>
+	<iostream>
+	<limits>
+	<vector>
+	<ctime>
+	<fstream>
+	<ios>
+	<iomanip>
+
+1575913134 source:c:\users\saron\onedrive\documents\mathtutor4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<vector>
+	"mathTutor.h"
+
+1575863845 c:\users\saron\onedrive\documents\mathtutor4\mathtutor.h
+
+1575928259 source:c:\users\saron\onedrive\documents\mathtutor4\mathtutor.cpp
+	<cstdlib>
+	<iostream>
+	<limits>
+	<vector>
+	<ctime>
+	<fstream>
+	<ios>
+	<iomanip>
+
